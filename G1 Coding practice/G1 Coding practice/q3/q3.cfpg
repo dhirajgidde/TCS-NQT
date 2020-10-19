@@ -1,0 +1,8 @@
+<Projects version="2.0">
+	<Project active="0">q3.cfp</Project>
+	<Project active="0">..\q2\q2.cfp</Project>
+	<Project active="1">..\q1\q1.cfp</Project>
+	<File active="1">main.c</File>
+	<File active="0">..\q2\main.c</File>
+	<File active="0">..\q1\main.c</File>
+</Projects>
